@@ -210,4 +210,4 @@ def delete_user(id):
 
 
 if __name__ == '__main__':
-    flask_app.run(host='127.0.0.1', port=8005, debug=True)
+    flask_app.run(debug=True)
